@@ -1,0 +1,243 @@
+@charset "utf-8";
+#wrapper{  
+ witch:1366px;
+ height: 768px;
+}
+#wrapper header {
+ background-image:url("../images/foto_portada.jpg");
+ witch:1366px;
+ height: 384px;
+}
+#wrapper header nav{
+}
+.azul1{
+	width: 171px;
+	height: 30px;
+	left: 341px;
+	background-color:#0b1d7f;
+	position: absolute;
+	top: 342px;
+}
+
+.azul1 li a{
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+    color: rgba(255,255,255,1.00);
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    position: absolute;
+    text-align: center;
+	padding: 7px 60px;
+	top: -0px; 
+}
+
+.azul1 a:hover{
+	color: #007fbf
+}
+
+.amarillo1{
+	width: 171px;
+	height: 30px;
+	left: 512px;
+	background-color:#fdc700;
+	position: absolute;
+	top: 342px;
+}
+
+.amarillo1 li a{
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+    color: #0b1d7f;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    position: absolute;
+	text-align: center;
+	padding: 7px 47px;
+	top:-0px;
+}
+
+.amarillo1 a:hover{
+	color: #007fbf
+}
+
+.azul2{
+	width: 171px;
+	height: 30px;
+	left: 684px;
+	background-color:#0b1d7f;
+	position: absolute;
+	top: 342px;
+}
+
+.azul2 li a{
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+    color:rgba(255,255,255,1.00);
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    position: absolute;
+	text-align: center;
+	padding: 7px 39px;
+	top:-0px;
+}
+
+.azul2 a:hover{
+	color: #007fbf
+}
+
+.amarillo2{
+    width: 171px;
+    height: 30px;
+    left: 854px;
+    background-color: #fdc700;
+    position: absolute;
+    top: 342px;
+}
+
+.amarillo2 li a{
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+    color: #0b1d7f;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    position: absolute;
+    text-align: center;
+    padding: 7px 42px;
+	top: -0px;
+	
+}
+.amarillo2 a:hover{
+	color: #007fbf
+}
+
+/*empieza css cuerpo*/
+#wrapper cuerpo{
+	background-color:#fff;
+	position: absolute;
+	width: 1367px;
+	height: 323px;
+	top:384px;
+	left: -1px;
+}
+.imagen1 img{
+	position: absolute;
+	left: 345px;
+	top: 405px;
+}
+.imagen2 img{
+	position: absolute;
+	left:597px;
+	top:405px;
+}
+.imagen3 img{
+	position: absolute;
+	left: 855px;
+	top: 405px;
+}
+
+.imagen4 img{
+	position: absolute;
+	left: 1098px;
+	top: 405px;
+}
+.imagen5 img{
+	position: absolute;
+	left: 100px;
+	top: 405px;
+}
+.texto p{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+    font-size: 15px;
+	text-align: justify;
+	left: 152px;
+	padding-top: 170px;
+    width: 1151px;
+    height: 45px;
+	padding-left: 100px;
+	line-height: 1.2;
+	
+}
+
+.texto2 p{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+    font-size: 15px;
+	text-align: justify;
+	left: 152px;
+    width: 1151px;
+    height: 25px;
+	padding-left: 100px;
+	line-height: 1.2;
+	top: 50px;
+	
+	
+}
+.texto3 p{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+    font-size: 15px;
+	text-align: justify;
+	left: 103px;
+	top: 500px;
+    width: 1151px;
+    height: 55px;
+	padding-left: 100px;
+	line-height: 1.2;
+}
+
+.icono1 h2{
+  font-size: 16px;
+  font-style: bold;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 385px;
+  top: 768px;
+  color:#fff;
+	
+}
+.icono1 img{
+  position: absolute;
+  left: 358px;
+  top: 782px;
+  width: 20px;
+  height: 20px;
+}
+.icono2 h2{
+  font-size: 16px;
+  font-style: bold;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 645px;
+  top: 768px;
+  color:#fff;
+}
+.icono2 img{
+  position: absolute;
+  left: 620px;
+  top: 780px;
+  width: 20px;
+  height: 20px;
+}
+.icono3 h2{
+  font-size: 16px;
+  font-style: bold;
+  position: absolute;
+  left: 850px;
+  top: 768px;
+  width: 165px;
+  color:#fff;
+}
+.icono3 img{
+  position: absolute;
+  left: 825px;
+  top: 780px;
+  width: 20px;
+  height: 20px;
+}
+
+#wrapper header nav ul{
+    list-style-type: none;	
+}
+#wrapper header nav ul li{
+  display: inline-block;
+} 
